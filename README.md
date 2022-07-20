@@ -1,1 +1,1 @@
-# Aerial Image Segementation with pytorch using `Massachusetts Roads Dataset`
+# Aerial Image Segmentation with pytorch using `Massachusetts Roads Dataset`
